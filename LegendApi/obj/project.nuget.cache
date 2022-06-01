@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "bJ/8McXnOGCW9wEmsLyi/vEB2ohSJdxUJUydMSVuZnAAjEnJvCsaqyXKV9AluUI0ax086Mo/0plu78GSZlWtgQ==",
+  "dgSpecHash": "9O+VCUJZD14f1ylEPXvLhEaWkJ4QTrOLe7D4A7dhTTEoVTMBRKSpxA/8q4kNT+Tpcik6LLz892pxcfOg5xYEGA==",
   "success": true,
   "projectFilePath": "C:\\Users\\daure\\source\\repos\\LegendApi\\LegendApi\\LegendApi.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\daure\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning\\5.0.0\\microsoft.aspnetcore.mvc.versioning.5.0.0.nupkg.sha512",
     "C:\\Users\\daure\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\daure\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\daure\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
